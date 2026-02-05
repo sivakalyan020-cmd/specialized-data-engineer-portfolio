@@ -6,7 +6,7 @@ This README introduces a specialized data-engineering portfolio aligned to the j
 
 ## Summary
 
-I am a data engineer with over five years of experience designing, building and maintaining modern data platforms. My work focuses on creating scalable data pipelines, reliable data models and user-friendly analytics layers that power business decision-making. This portfolio is tailored to the requirements of a cross-functional Data Engineer role, showcasing real-world projects where I implemented ETL/ELT pipelines, optimized cloud warehouses, ensured data quality and collaborated closely with stakeholders to deliver incremental value. Each project highlights the challenge, solution and impact to demonstrate not just the **what**, but also the **why** and **how**.
+I am a data engineer with over eight years of experience designing, building and maintaining modern data platforms. My work focuses on creating scalable data pipelines, reliable data models and user-friendly analytics layers that power business decision-making. This portfolio is tailored to the requirements of a cross-functional Data Engineer role, showcasing real-world projects where I implemented ETL/ELT pipelines, optimized cloud warehouses, ensured data quality and collaborated closely with stakeholders to deliver incremental value. Each project highlights the challenge, solution and impact to demonstrate not just the **what**, but also the **why** and **how**.
 
 ## Core Competencies
 
